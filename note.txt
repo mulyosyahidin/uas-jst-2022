@@ -1,0 +1,4 @@
+Dataset dapat di download di: https://www.kaggle.com/datasets/moltean/fruits
+
+File CNN: Buah (CNN).ipyn
+File Transfer Learning: Transfer_Learning.ipyb
